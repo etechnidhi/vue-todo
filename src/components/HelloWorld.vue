@@ -35,7 +35,7 @@
       <thead class="thead-dark">
         <tr>
           <th scope="col">Status</th>
-          <th scope="col">Name</th>
+          <th scope="col">Task</th>
           <th scope="col">Date</th>
           <th scope="col">Time</th>
           <th scope="col" colspan="2">Action</th>
